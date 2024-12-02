@@ -1,5 +1,6 @@
 # resources
 
+[ftcdiscord](https://discord.gg/first-tech-challenge)
 [learnjavaforftc](https://github.com/alan412/LearnJavaForFTC)
 [virtualrobot](https://github.com/Beta8397/virtual_robot)
 
@@ -9,6 +10,7 @@ roadrunner and tools
 [roadrunnerdocs](https://rr.brott.dev/)
 [expressway](https://github.com/j5155/Expressway)
 [meepmeep](https://github.com/acmerobotics/MeepMeep)
+[liveauto](https://whsrobotics.gitbook.io/whsrobotics-liveauto)
 
 pedropath (roadrunner alt)
 
