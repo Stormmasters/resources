@@ -19,6 +19,8 @@ pedropath (roadrunner alt)
 
 vision
 
+[deltacv](https://deltacv.org/)
+[deltacvrepos](https://github.com/orgs/deltacv/repositories)
 [EOCV-Sim](https://github.com/deltacv/EOCV-Sim)
 [visionloop](https://github.com/deltacv/visionloop)
 [papervision](https://github.com/deltacv/PaperVision)
