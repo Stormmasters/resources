@@ -1,6 +1,6 @@
 # resources
 
-[ourdiscord](https://dsc.gg//////////////////////////reacted) 
+[ourdiscord](https://dsc.gg////////////////////////////) 
 [ftcdiscord](https://discord.gg/first-tech-challenge)
 [learnjavaforftc](https://github.com/alan412/LearnJavaForFTC)
 [virtualrobot](https://github.com/Beta8397/virtual_robot)
